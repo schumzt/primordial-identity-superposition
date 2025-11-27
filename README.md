@@ -69,5 +69,4 @@ This repository will continue to evolve as the research develops.
 
 ---
 
-If you are a researcher, engineer, or philosopher interested in collaboration,  
-feel free to reach out.
+If you'd like to discuss identity coherence, cognitive grounding, or computational models of moral attenuation, feel free to connect with me on LinkedIn or collaborate via GitHub.
